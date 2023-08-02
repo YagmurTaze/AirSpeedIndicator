@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/asi">
+        <file>images/ASI_FACE.png</file>
+        <file>images/missile-as-dial.png</file>
+        <file>images/needle.png</file>
+    </qresource>
+</RCC>
